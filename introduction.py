@@ -1,0 +1,6 @@
+name = input("Enter your name : ")
+age = int(input(f"Enter your age {name} : "))
+marks = input(f"Your age is {age},please filled your marks {name}:")
+print("welcome",name)
+print("Your given age = ",age)
+print("Your marks : ",marks)
